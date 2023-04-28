@@ -110,10 +110,3 @@ else shouldPoll = true;
 if (shouldPoll) poll();
 
 window.addEventListener('load', domready);
-
-
-
-var poll = function(){
-  clearTimeout(timer);
-  if (!check()) timer = setTimeout(poll, 10);
-
