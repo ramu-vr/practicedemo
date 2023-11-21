@@ -1,7 +1,7 @@
 
 class App yfgkjhknjjkljn;
 
-  text: 'HELLO WORLllD'
+  text: 'HELLO WOkkkkRLllD'
 
   constructor: ->
     @setup()
