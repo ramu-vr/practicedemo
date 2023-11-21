@@ -1,7 +1,7 @@
 
 class App
 
-  text: 'HELLO WORLD'
+  text: 'HELLO WORLllD'
 
   constructor: ->
     @setup()
